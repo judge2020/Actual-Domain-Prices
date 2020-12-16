@@ -1,7 +1,7 @@
 # Actual Domain Prices
 The real cost of each TLD (top-level-domain). Find out how much your registrar marks up your domain prices.
 
-This list is in **US Dollars**. 
+This list is in **US Dollars**.
 
 |TLD|price (USD)|
 |---|---|
@@ -46,7 +46,7 @@ This list is in **US Dollars**.
 |clothing|20|
 |coach|33|
 |codes|33|
-|coffee|20|
+|coffee|21.50|
 |college|45|
 |com|7.85|
 |community|20|
